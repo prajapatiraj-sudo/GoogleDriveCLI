@@ -111,18 +111,6 @@ gdrivecli
 go run ./gdrivecli
 ```
 
----
-
-## 👥 Contributing (For Teams)
-
-```bash
-git clone git@github.com:yourname/GoogleDriveCLI.git
-cd GoogleDriveCLI
-go build -o gdrivecli ./gdrivecli
-```
-
----
-
 ## 📄 License
 
 MIT License.
